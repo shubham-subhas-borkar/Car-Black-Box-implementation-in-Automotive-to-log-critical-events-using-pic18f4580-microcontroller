@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubham-subhas-borkar
+- 👋 Hi, I’m @shubham-subhas-borkar,
 Electrical and Electronics Engineer with an M.Tech in Power Electronics and specialized training in Embedded Systems. Dedicated to applying advanced technical knowledge to solve complex challenges in
 power electronics design and embedded systems development. Seeking opportunities to contribute my skills and drive innovation in a dynamic engineering environment.
 
