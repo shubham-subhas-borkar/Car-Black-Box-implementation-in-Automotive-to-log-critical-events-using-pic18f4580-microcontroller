@@ -1,15 +1,5 @@
-- 👋 Hi, I’m @shubham-subhas-borkar,
-Electrical and Electronics Engineer with an M.Tech in Power Electronics and specialized training in Embedded Systems. Dedicated to applying advanced technical knowledge to solve complex challenges in
-power electronics design and embedded systems development. Seeking opportunities to contribute my skills and drive innovation in a dynamic engineering environment.
+The concept of Black Box is mainly heard by us in case of Aero-planes. Upon a catastrophe the Black Box is used to analyze the root cause of the issue. However, the purpose of Black Box can go beyond catastrophe analysis. Also known as an event data recorder (EDR) or Accident data recorder (ADR) the Black Box can be installed in some automobiles to record various events. These events which are electronically sensed can often pro-actively detect any issue in the vehicle (ex: Engine fault) or monitor the fleet (ex: Drive over speeding), thereby doing pro-active maintenance of the Automotive vehicle. 
 
-Projects:-
-->Design and implementation of Series Resonant Converter for laptop charging application under open loop and close loop system.
-->Analysis and design of photovoltaic system using boost converter for battery charging application.
-->Image based steganography using LSB insertion technique.
-->Car Black Box implementation in an Automotive System to log critical events using pic18f4580 microcontroller.
-->Inverted index search in data mining.
+By considering today’s busy life, every one wants to reach the destination as soon as possible by ignoring the rules and regulations. By implementing a Black Box which would log critical activities on the car and take appropriate actions in case of rash driving. As mentioned above the root cause of the negligence in the driving would be meeting the daily schedule and go off duty, or to earn extra money by illegal trips etc… So by implementing the mentioned solution it would be easy to keep track of how the vehicle is being used, handled and control the efficiency of the vehicle.
 
-<!---
-shubham-subhas-borkar/shubham-subhas-borkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The proposed solution is to log all the critical events like the gear shifts with current speed, the engine temperature, fuel consumption per trip, trip distance etc., The system should allow a password based access to the transport managers to view or download the log to PC if required. Here is a video which gives a working idea about this solution.
